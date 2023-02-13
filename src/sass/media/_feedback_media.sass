@@ -1,0 +1,49 @@
+@media (max-width: 1199.98px) //компы
+    .feedback
+        padding: 75px 0 45px 0
+
+@media (max-width: 991.98px) //ноуты
+    .feedback
+        padding: 70px 0 40px 0
+        &__header
+            font-size: 28px
+        &__wrapper
+            margin-top: 50px
+            .client__img
+                width: 160px
+                height: 160px
+        .client__comment
+            font-size: 14px
+            line-height: 20px
+
+@media (max-width: 767.98px) //пваншет
+    .feedback
+        padding: 60px 5px 40px 5px
+        &__header
+            font-size: 26px
+        &__wrapper
+            margin-top: 50px
+            .client__img
+                width: 150px
+                height: 150px
+        .client__comment
+            font-size: 14px
+            line-height: 20px
+
+@media (max-width: 575.98px) //телефон
+    .feedback
+        padding: 60px 5px 40px 5px
+        &__header
+            font-size: 22px
+        &__wrapper
+            flex-wrap: nowrap
+            margin-top: 30px
+            .client__img
+                display: none
+            .feedback__comment
+                .client
+                    &__achievement
+                        font-size: 10px
+        .client__comment
+            font-size: 12px
+            line-height: 15px

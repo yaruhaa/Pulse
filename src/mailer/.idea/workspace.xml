@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ec00e0d-54f6-4a7f-81cf-f3651ed8793a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../icons/circle-chevron-up-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/PHPMailerAutoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/class.phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/class.phpmaileroauth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/class.phpmaileroauthgoogle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/class.pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/class.smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpmailer/travis.phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/elements/_animations.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/elements/_modal.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/elements/_pageup.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/fonts/_MuseoModerno.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/libs/_animate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/libs/_bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/libs/_slick.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_benefits_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_buttons_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_catalog_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_consultation_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_feedback_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_footer_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_header_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_modal_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_presentation_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/media/_promo_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sass/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/blocks/header.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/blocks/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/elements/_forms.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/elements/_forms.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/elements/_header.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/elements/_header.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/sections/_benefits.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/sections/_benefits.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/sections/_catalog.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/sections/_catalog.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/sections/_consultation.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/sections/_consultation.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/sections/_footer.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/sections/_footer.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/sections/_presentation.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/sections/_presentation.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/sections/_promo.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../sass/sections/_promo.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/style/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sass/style/style.sass" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lc3tPf8PsueRnKdLRyjjcu9POK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Work/WebStormProjects/Ed/pulse/src/mailer",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec00e0d-54f6-4a7f-81cf-f3651ed8793a" name="Changes" comment="" />
+      <created>1676156757520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676156757520</updated>
+      <workItem from="1676156759438" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

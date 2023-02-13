@@ -1,0 +1,34 @@
+@media (max-width: 1199.98px) //компы
+
+@media (max-width: 991.98px) //ноуты
+
+@media (max-width: 767.98px) //пваншет
+    .header
+        &__logo
+            width: 33%
+        &__official
+            width: 33%
+            span
+                display: block
+                font-size: 16px
+        &__contacts
+            width: 33%
+
+@media (max-width: 575.98px) //телефон
+    .header
+        flex-wrap: wrap
+        position: relative
+        &__logo
+            width: 45%
+        &__official
+            width: 45%
+            span
+                display: block
+                font-size: 12px
+        &__contacts
+            position: absolute
+            top: 260px
+            margin-top: 10px
+            width: 100%
+        &__phone
+            font-size: 12px
