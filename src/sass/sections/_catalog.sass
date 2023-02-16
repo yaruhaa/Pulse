@@ -19,7 +19,6 @@
         height: 50px
         border: 2px solid #D0D0D0
         background: rgba(0, 0, 0, 0.0001)
-
         color: #6B6B6B
         font-size: 18px
         font-weight: 400
@@ -40,20 +39,20 @@
             background-color: $main-color
             border: none
     &__content
-        margin-top: 38px
+        margin: 38px auto 0 auto
         display: none
-        justify-content: space-evenly
-        align-items: center
-        flex-wrap: wrap
+        grid-template-columns: repeat(3, 305px)
+        grid-template-rows: auto
+        column-gap: 17px
+        row-gap: 19px
+        justify-content: center
         &_active
-            display: flex
+            display: grid
         .catalog__item
             padding: 18px 20px 20px 20px
-            width: 303px
-            height: 445px
+            width: 100%
             border: 2px solid #E8E8E8
             overflow: hidden
-            margin-top: 19px
             .item__wrapper
                 display: flex
                 width: calc(200% + 40px)
@@ -100,7 +99,7 @@
                     margin-bottom: 0
                     transform: translateX(0%)
                     &_active
-                        transform: translateX(-100%)
+                        transform: translateX(-105%)
                         margin-right: 0
                     ul
                         list-style-type: none

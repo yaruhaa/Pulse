@@ -104,16 +104,4 @@ $(document).ready(function () {
         });
         return false;
     });
-
-    // scroll pageup
-
-    $(window).scroll(function() {
-        if ($(this).scrollTop() > 1250) {
-            $('.pageup').fadeIn();
-        } else {
-            $('.pageup').fadeOut();
-        }
-    });
-
-    new WOW().init();
 });
